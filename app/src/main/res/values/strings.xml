@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calminders</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_reminders">Reminders</string>
+    <string name="title_activity_main_select">MainSelect</string>
+    <string name="title_activity_calculator" />
+</resources>
